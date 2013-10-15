@@ -1,5 +1,5 @@
-Conditional BuildStep Plugin for
-================================
+Conditional BuildStep Plugin
+============================
 
 Licensed under [MIT Licence].
  
