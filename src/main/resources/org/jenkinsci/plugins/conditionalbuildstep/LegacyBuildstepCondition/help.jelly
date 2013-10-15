@@ -5,7 +5,7 @@
     <ul>
     	<li>fix value <code>true</code> or <code>false</code></li>
     	<li>reference of a build parameter (e.g. <code>${DOIT}</code>)</li>
-    	<li>as TokenMacro consumer (install any plugin from the <a href="https://wiki.jenkins-ci.org/display/JENKINS/Token+Macro+Plugin">TokenMacro Producer List</a>)</li>
+    	<li>as TokenMacro consumer (install any plugin from the <a href="http://wiki.hudson-ci.org/display/HUDSON/Token+Macro+Plugin">TokenMacro Producer List</a>)</li>
     </ul>
     With the checkbox it is possible to invert the resolved condition.
 </div>
